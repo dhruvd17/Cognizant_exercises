@@ -1,0 +1,2 @@
+GET http://localhost:8083/countries
+Authorization: Bearer byJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNzgzMTgyOTA1LCJleHAiOjE3ODMxODQxMDV9.GTveOwaYnM7AArSyoRVBrI4DDVtYGfmmXL26lK5WvXw
